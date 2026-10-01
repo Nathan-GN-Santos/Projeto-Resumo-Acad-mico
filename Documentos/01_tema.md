@@ -1,58 +1,48 @@
-# Etapa 1 Tema e delimitação
-
-## Solicitação
-
-Defina um tema específico, relevante e viável para o artigo de revisão bibliográfica.
+# 1. Tema e Delimitação
 
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[Nathan Gabriel, Riquelme, Kevin Lucas]`
-- Data: `[24/09/2026]`
-
-## Preenchimento
+- Integrantes: [Nathan Gabriel](https://github.com/Nathan-GN-Santos), Riquelme, Kevin Lucas
+- Data: `24/09/2026`
 
 ### Área geral
 
-`[Impacto Social da Tecnologia]`
+`Impacto Social da Tecnologia`
 
 ### Tema delimitado
 
-`[O Papel da Inteligência Artificial no Desenvolvimento de Soluções e Tecnologias Assistivas para Pessoas com Deficiências e Idosos.]`
+`O Uso da Inteligência Artificial no Desenvolvimento de Interfaces Assistivas para Idosos.`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `Acessibilidade e Inclusão na Tecnologia da Informação`
+- Objeto estudado: `Inteligência Artificial e seu uso para Idosos`
+- Contexto ou aplicação: `Utilização de Inteligência Artificial para auxiliar idosos no uso em aplicativos. .`
+- Aspecto que será analisado: `Como a inteligência artificial pode ser usada para solucionar problemas de compreensão e navegabilidade para pessoas idosas.`
+- O que ficará fora do estudo: `Robótica física, hardware e dispositivos eletrônicos externos (foco restrito ao ecossistema de software)`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`O envelhecimento populacional torna urgente a criação e um ecossistema digital acessível. Embora a tecnologia avance rapidamente, muitas interfaces e sistemas não possuem interfaces otimizadas pra a população idosa. Este estudo é importante pois analisa como a Inteligência Artificial pode atuar como ferramenta de acessibilidade, pra resolver problemas variados entre eles cognitivos, auditivos, visuais e compreensão.`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
-
-## Produto da etapa
-
-Tema delimitado e justificativa.
+- Há artigos científicos disponíveis? `Sim`
+- O tema pode ser estudado no prazo? `Sim`
+- O grupo possui acesso às fontes necessárias? `Sim`
 
 ## Checklist
 
 - [x] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [x] O tema é relevante.
+- [x] O tema é viável.
+- [x] O recorte está claro.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[Nathan Gabriel N.S.]` | `[Criação e preenchimento do repositório no Github, Desenvolvimento do Tema]` |
+| `[Nathan Gabriel N.S.]` | `[Criação e preenchimento do repositório no Github, Delimitação e Edição do Tema ]` |
 | `[Riquelme]` | `[Ideia inicial do tema]` |
