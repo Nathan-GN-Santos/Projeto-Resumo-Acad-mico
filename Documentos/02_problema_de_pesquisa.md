@@ -28,11 +28,11 @@ O Papel da Inteligência Artificial no Desenvolvimento de Soluções e Tecnologi
 
 ## Checklist
 
-- [ ] Está escrita em forma de pergunta.
-- [ ] É clara e objetiva.
-- [ ] Está alinhada ao tema.
-- [ ] Pode ser respondida por revisão bibliográfica.
-- [ ] Não exige experimento que não será realizado.
+- [x] Está escrita em forma de pergunta.
+- [x] É clara e objetiva.
+- [x] Está alinhada ao tema.
+- [x] Pode ser respondida por revisão bibliográfica.
+- [x] Não exige experimento que não será realizado.
 
 ## Contribuições
 
