@@ -6,23 +6,25 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+O Papel da Inteligência Artificial no Desenvolvimento de Soluções e Tecnologias Assistivas para Pessoas com Deficiências e Idosos.
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`Qual o Papel da Inteligência Artificial no Desenvolvimento de Soluções e Tecnologias Assistivas para Pessoas com Deficiências e Idosos?
+`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- O que se deseja descobrir ou compreender? `De que formas e quão útil a Inteligência Artifical pode ser usada para ajudar Pessos com DeficiÊncias e Idosos?`
+- Qual é o objeto da pergunta? `O Papel da Inteligência Artificial`
+- Qual é o contexto ou recorte? `Brasil/ PcD/ Idosos `
+- A pergunta pode ser respondida por artigos científicos? `Sim, o tema é específico o suficiente e já foi abordado por artigos.`
+- Por que essa pergunta é relevante? `IA é o hot topic do momento e vai continuar sendo por muito tempo, considerando que daqui pra frente terão mais idosos do que jovens, é um ótimo tema`
 
 ## Produto da etapa
 
-Pergunta de pesquisa aprovada.
+`Qual o Papel da Inteligência Artificial no Desenvolvimento de Soluções e Tecnologias Assistivas para Pessoas com Deficiências e Idosos?
+
 
 ## Checklist
 

@@ -6,25 +6,24 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`A dúvida de como IA pode ser utilizada para ajudar as pessoas alvo`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`Analisar, identificar
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `Identifcar quais são as áreas específicas dentro do tema mais importantes`
+2. `Analisar possíveis rotas e utilidades, ou como IAs já estão sendo utilizadas`
+3. `Anilisar como futuramente tais ferramentas podem ser usadas`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
+| Problema | `A dúvida de como IA pode ser utilizada para ajudar as pessoas alvo` |
+| Objetivo geral | `Analisar, identificar` |
 | Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
 
 ## Produto da etapa
